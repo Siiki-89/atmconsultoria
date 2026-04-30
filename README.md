@@ -7,19 +7,9 @@ O objetivo principal do projeto foi praticar o uso de **Fragments** no Android S
 # Screenshots
 
 <p align="center">
-  <img src="assets/images/principal.png" width="900"/>
-</p>
-
-<br>
-
-<p align="center">
-  <img src="assets/images/cliente.png" width="900"/>
-</p>
-
-<br>
-
-<p align="center">
-  <img src="assets/images/servicos.png" width="900"/>
+  <img src="assets/images/principal.png" width="200"/>
+  <img src="assets/images/cliente.png" width="200"/>
+  <img src="assets/images/servicos.png" width="200"/>
 </p>
 
 # Funcionalidades
