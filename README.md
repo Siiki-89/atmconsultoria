@@ -9,6 +9,12 @@ O objetivo principal do projeto foi praticar o uso de **Fragments** no Android S
 <p align="center">
   <img src="assets/images/principal.png" width="200"/>
   <img src="assets/images/cliente.png" width="200"/>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="assets/images/servicos.png" width="200"/>
   <img src="assets/images/servicos.png" width="200"/>
 </p>
 
